@@ -1,0 +1,155 @@
+[
+  {
+    "id": "edison_beg_001",
+    "formatId": "Edison",
+    "difficulty": "BEGINNER",
+    "text": "You activates Mirror Force, your opponent chains Mystical Space Typhoon targeting your Mirror Force: does Mystical Space Typhoon prevents their monsters from being destroyed? ",
+    "options": [
+      "Yes, Mystical Space Typhoon negates Mirror Force",
+      "No, Mirror Force isn't negated and destroys all their monsters in Atk Position",
+      
+    ],
+    "correctIndices": [1],
+    "explanation": " Mystical Space Typhoon doesn't negate , it only destroys",
+    "language": "en"
+  },
+  {
+    "id": "edison_beg_002",
+    "formatId": "Edison",
+    "difficulty": "BEGINNER",
+    "text": "Can you set a Spell Card and activate it later in the same turn?",
+    "options": ["No, you have to wait until your next turn",
+ "Yes, all Spell Cards can be activated the same turn they've been set", 
+"Yes, but not if they're Quick Play Spell Cards",
+ "Yes, but only if they're Quick Play Spell Cards"],
+    "correctIndices": [2],
+    "explanation": " ",
+    "language": "en"
+  },
+{
+    "id": "edison_beg_003",
+    "formatId": "Edison",
+    "difficulty": "BEGINNER",
+    "text": "Does a Tribute Summon count as a normal summon?  ",
+    "options": [
+      "Yes,so you can't tribute summon if you've already normal summoned this turn",
+      "No, Tribute Summon is a form of Special Summon,you can perform as many tribute summon as you want",
+      "Yes,it's a normal summon but you can perform it in addition to your normal summon",
+      ""Yes,it's a normal summon but you can perform it in addition to your normal summon if the monster you're going to tribute has been on the field for at least 1 turn and didn't attack"
+
+      
+    ],
+    "correctIndices": [0],
+    "explanation": " ",
+    "language": "en"
+  },
+{
+    "id": "edison_beg_004",
+    "formatId": "Edison",
+    "difficulty": "BEGINNER",
+    "text": " I normal summon Armageddon Knight  and use it's effect to send a Dark monster from the deck to the graveyard,my opponent wants to activate Trap Hole in response to Armageddon Knight effect: how does the chain resolve?",
+    "options": [
+      "I send a Dark Monster from the deck to the graveyard and then Trap Hole destroys Armageddon Knight ",
+      "Trap Hole destroys Armageddonn Knight but then i can't send a Dark Monster from the deck because Armageddon Knight is no longer on the field",
+      "Trap Hole destroys Armageddon Knight and then i send a Dark Monster from the deck",
+      "Trap Hole activation is illegal because Armageddon Knight's summoon eff has priority and makes it miss timing"
+
+      
+    ],
+    "correctIndices": [2],
+    "explanation": " ",
+    "language": "en"
+  },
+
+
+{
+    "id": "edison_beg_005",
+    "formatId": "Edison",
+    "difficulty": "BEGINNER",
+    "text": "Can you activate Trap Stun, a Normal Trap Card, to negate Solemn Judgment(a Counter Trap Card)?",
+    "options": [
+      "Yes,you can",
+      "No, you can't but you could if Trap Stun negated activation of Trap Cards and not just the effect",
+      "No,you can't, you can only chain another Counter Trap Card to Solemn Judgment ""
+
+      
+    ],
+    "correctIndices": [2],
+    "explanation": " ",
+    "language": "en"
+  },
+{
+    "id": "edison_beg_006",
+    "formatId": "Edison",
+    "difficulty": "BEGINNER",
+    "text": "Can you activate a Field Spell like Skyscraper , if you already have 5 cards in your Spell/Trap zones?",
+    "options": [
+      "Yes,you can because Field Spells have their dedicated Zone",
+      "Field Spells have their dedicated Zone but you still can't have more than 5 Spell/Traps in your Zones",
+      "No,you can't "
+
+      
+    ],
+    "correctIndices": [0],
+    "explanation": " ",
+    "language": "en"
+  },
+{
+    "id": "edison_beg_007",
+    "formatId": "Edison",
+    "difficulty": "BEGINNER",
+    "text": "Can you activate Lightning Vortex if your opponent doesn't have a Face-Up monster on their field?",
+    "options": [
+      "Yes,you can if your goal is just to discard a card",
+      "No you can't",
+      "Yes you can if your opponent has at least a face-down monster on the field"
+
+      
+    ],
+    "correctIndices": [1],
+    "explanation": " ",
+    "language": "en"
+  },
+{
+    "id": "edison_beg_008",
+    "formatId": "Edison",
+    "difficulty": "BEGINNER",
+    "text": "Can you activate Lyla, Lightsworn Sorceress in response to something?",
+    "options": [
+      "Yes, you can because monsters effects are Spell Speed 2 unless it's specified otherwise on the card",
+      "No, you can't because monsters effects are Spell Speed 1 (they can be activated only at times when you would be able to activate a Spell Card",
+      "Yes,you can but only during your turn "
+
+      
+    ],
+    "correctIndices": [1],
+    "explanation": " ",
+    "language": "en"
+  },
+{
+    "id": "edison_beg_006",
+    "formatId": "Edison",
+    "difficulty": "BEGINNER",
+    "text": "You have 5 Monsters on the field: can you tribute summon a monster?",
+    "options": [
+      "No",
+      "Yes",
+      "Only if it's a monster that requires 2 tributes",
+      "Only if it's a Divine Beast"
+
+      
+    ],
+    "correctIndices": [0],
+    "explanation": " ",
+    "language": "en"
+  },
+
+
+
+
+
+
+
+
+
+]

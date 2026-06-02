@@ -92,7 +92,7 @@
     "text": "Can you activate Lightning Vortex if your opponent doesn't have a face-up monster on their field?",
     "options": [
       "Yes, you can if your goal is just to discard a card",
-      "No, you can't",
+      "No, you can't cards which won't have any effect on the game state",
       "Yes, you can if your opponent has at least a face-down monster on the field"
     ],
     "correctIndices": [1],
@@ -124,8 +124,112 @@
       "Only if it's a monster that requires 2 Tributes",
       "Only if it's a Divine Beast"
     ],
+    "correctIndices": [1],
+    "explanation": "",
+    "language": "en"
+  },
+  {
+    "id": "edison_beg_010",
+    "formatId": "Edison",
+    "difficulty": "BEGINNER",
+    "text": "Can you change the battle position of a monster who has been summoned this turn or has attacked?",
+    "options": [
+      "No for both situations",
+      "Yes for both situations",
+      "Only if the monster has attacked but wasn't summoned this turn",
+      "Only if it's been summoned this turn but hasn't attacked"
+    ],
     "correctIndices": [0],
     "explanation": "",
     "language": "en"
+  },
+  {
+    "id": "edison_beg_011",
+    "formatId": "Edison",
+    "difficulty": "BEGINNER",
+    "text": "Can you special summon a monster in face-down position?",
+    "options": [
+      "Never",
+      "Yes",
+      "Only if the card specifies so otherwise you can't",
+      "A monster can only be special summoned in Attack Position"
+    ],
+    "correctIndices": [2],
+    "explanation": "",
+    "language": "en"
+  },
+  {
+    "id": "edison_beg_012",
+    "formatId": "Edison",
+    "difficulty": "BEGINNER",
+    "text": "Can you immediately chain Starlight Road to your own Heavy Storm?",
+    "options": [
+      "Yes",
+      "No",
+      "You have to wait until your opponent activates a card or effect in response to Heavy Storm",
+      "Yes,but only if you declare priority as soon as possible after activating Heavy Storm and before your opponent has a chance to respond"
+    ],
+    "correctIndices": [2],
+    "explanation": "",
+    "language": "en"
+  },
+  {
+    "id": "edison_beg_013",
+    "formatId": "Edison",
+    "difficulty": "BEGINNER",
+    "text": "Can you activate Solemn Judgment to negate the summon of Gorz, the Emissary of Darkness during the Damage Step?",
+    "options": [
+      "No, in Damage Step you can only activate cards whose effects modify ATK/DEF or negate activations",
+      "Yes",
+      "No, Gorz's summon is a summon through effect and Solemn Judgment can only negate inherent summon",
+      "You can't activate Trap Cards during the Damage Step,only Quick-Play Spells and monster effects"
+    ],
+    "correctIndices": [2],
+    "explanation": "",
+    "language": "en"
+  },
+  {
+    "id": "edison_beg_014",
+    "formatId": "Edison",
+    "difficulty": "BEGINNER",
+    "text": "Can you normal summon a monster in face-up defense position?",
+    "options": [
+      "No, you can only normal summon in face-up attack position",
+      "Yes",
+      "Yes,but only if the monster has 0 ATK",
+      "Yes,but only if it's a Tribute Summon"
+    ],
+    "correctIndices": [0],
+    "explanation": "",
+    "language": "en"
+  },
+  {
+    "id": "edison_beg_015",
+    "formatId": "Edison",
+    "difficulty": "BEGINNER",
+    "text": "Can you activate the effect of Snipe Hunter as soon as it's summoned in Edison Format?",
+    "options": [
+      "Yes, in Edison Format there's the priority rule which allows you to activate monster effects as soon as the monster is summoned",
+      "No,you have to wait until your opponent activates a card or effect in response to Snipe Hunter's summon",
+      "You could have if Snipe Hunter effect was a Quick Effect"
+    ],
+    "correctIndices": [0],
+    "explanation": "",
+    "language": "en"
+  },
+  {
+    "id": "edison_beg_016",
+    "formatId": "Edison",
+    "difficulty": "BEGINNER",
+    "text": "Can you use Stardust Dragon's effect to negate Dark End Dragon effect?",
+    "options": [
+      "Yes, SEND and DESTROY effects are the same for Stardust Dragon's effect",
+      "No,since Dark End Dragon's effect says SEND and Stardust Dragon can only negate DESTROY effects, it can't negate Dark End Dragon's effect",
+    ],
+    "correctIndices": [1],
+    "explanation": "",
+    "language": "en"
   }
+  
+  
 ]

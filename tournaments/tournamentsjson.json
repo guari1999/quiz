@@ -1,0 +1,26 @@
+[
+  {
+    "id": "tournament_001",
+    "title": "Ruling Mastery Championship",
+    "format": "Advanced",
+    "date": "2024-12-20",
+    "time": "10:00",
+    "location": "Milan, Italy",
+    "entryFee": "15€",
+    "prize": "4 Booster Boxes",
+    "description": "The first official tournament organized by Ruling Mastery with competitive rules.",
+    "imageUrl": ""
+  },
+  {
+    "id": "tournament_002",
+    "title": "Edison Historical Cup",
+    "format": "Edison",
+    "date": "2025-01-05",
+    "time": "15:00",
+    "location": "Rome, Italy",
+    "entryFee": "10€",
+    "prize": "Store Credit",
+    "description": "Relive the 2010 glory days in this historical format tournament.",
+    "imageUrl": ""
+  }
+]
